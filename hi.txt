@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rrdsdfsf
+=======
+i changed in b2 hdisfggfdgifuiogudfiogdfigfiugufigufvxc
+>>>>>>> french
